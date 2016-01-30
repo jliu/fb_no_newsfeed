@@ -1,0 +1,11 @@
+#contentArea:not(.really-show-it) {
+  visibility: hidden;
+}
+
+#contentArea:not(.really-show-it) * {
+  visibility: hidden;
+}
+
+#toggleNewsfeedButton {
+  margin-bottom: 10px;
+}
